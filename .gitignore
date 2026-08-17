@@ -1,3 +1,14 @@
+# Byte-compiled / class files
 *.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Logs
 *.log
+
+# OS generated files
 .DS_Store
+Thumbs.db
